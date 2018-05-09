@@ -12,6 +12,7 @@ namespace ConsoleAppHello
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Cleveland!");
+            Console.WriteLine("Added Feature 1... going to be great!");
             Console.ReadLine();
         }
     }
